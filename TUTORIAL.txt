@@ -1,0 +1,17 @@
+This are the steps to open your cheats:
+_____________________________________________________
+How to open ImperiumFN?
+1. Disable Windows Defender
+2. Extract the .zip to a folder
+3. Click on: ImperiumFN, Builder, ImpFN.exe
+4. Run it as administrator
+5. Type in: 'ImperiumFN4Life'
+6. You gained access!
+_____________________________________________________
+How to start the cheats?
+1. Start Fortnite
+2. Go to the lobby
+3. Run ImpFN.exe as administrator
+4. Type in: 'ImperiumFN4Life'
+5. Go in a match
+_____________________________________________________
